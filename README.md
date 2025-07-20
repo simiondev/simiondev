@@ -9,7 +9,7 @@ Soy desarrollador web junior especializado en:
 ## 🚀 Proyectos destacados
 
 🔹 [FinanTrack - Landing Page](https://finantrack-landing.netlify.app)  
-💻 [Código fuente en GitHub](https://github.com/tuusuario/finantrack-landing)
+💻 [Código fuente en GitHub](https://github.com/simiondev/finantrack-landing)
 
 Pronto añadiré más proyectos como parte de mi portafolio freelance.
 
