@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Robert
 
-<!--
-**simiondev/simiondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador web junior especializado en:
 
-Here are some ideas to get you started:
+- 🌐 Sitios web responsivos con HTML, CSS y JavaScript
+- ⚙️ Aplicaciones web completas con Django
+- 📱 Landing pages profesionales y modernas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos destacados
+
+🔹 [FinanTrack - Landing Page](https://finantrack-landing.netlify.app)  
+💻 [Código fuente en GitHub](https://github.com/tuusuario/finantrack-landing)
+
+Pronto añadiré más proyectos como parte de mi portafolio freelance.
+
+---
+
+📫 Puedes contactarme por [LinkedIn](https://www.linkedin.com/in/robert-eduard-simion/)
