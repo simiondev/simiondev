@@ -11,6 +11,13 @@ Soy desarrollador web junior especializado en:
 🔹 [FinanTrack - Landing Page](https://finantrack-landing.netlify.app)  
 💻 [Código fuente en GitHub](https://github.com/simiondev/finantrack-landing)
 
+🔹 [Café Aroma](https://cafe-aroma-robert.netlify.app/)  
+💻 [Código fuente en GitHub](https://github.com/simiondev/cafe-aroma)
+
+🔹 [DevBlog]  
+💻 [Código fuente en GitHub](https://github.com/simiondev/devblog)
+
+
 Pronto añadiré más proyectos como parte de mi portafolio freelance.
 
 ---
